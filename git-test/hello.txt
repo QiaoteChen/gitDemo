@@ -6,4 +6,7 @@ hello git!
 hello git!
 hello git!
 hello git!
+sss test git merge
+hhhhhhhhh
+ssshhhhhh
 hello git! hot fix branch
